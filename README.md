@@ -7,7 +7,7 @@ Projeto criado para execução de testes automatizados de API utilizando cypress
 ### **Pré-requisitos**
 
     - Node
-    - IDE da sua preferência (no meu caso estou usando o intelliJ IDEA)
+    - IDE da sua preferência (no meu caso estou usando o Aqua)
 
 <br/>
 
