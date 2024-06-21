@@ -17,7 +17,6 @@ describe('POST /users', () => {
             })
     })
 
-
     it('registrar novo usuário apenas com o campo nome', () => {
 
         const name = {
