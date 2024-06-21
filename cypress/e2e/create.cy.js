@@ -1,6 +1,5 @@
 describe('POST /users', () => {
 
-
     it('registrar novo usuário', () => {
 
         cy.postUser()
@@ -16,7 +15,6 @@ describe('POST /users', () => {
                 })
             })
     })
-
 
     it('registrar novo usuário apenas com o campo nome', () => {
 
